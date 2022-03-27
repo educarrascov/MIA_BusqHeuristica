@@ -9,4 +9,4 @@ Profesor: Jordi Pereira.
 
 ## Notebook.
 
-A. Algoritmo de Búsqueda con `Ortools`.
+A. [Algoritmo de Búsqueda con `Ortools`.](https://github.com/educarrascov/MIA_BusqHeuristica/blob/main/1.7.%20Enunciado%20(SendMoreMoney)%20Colab.ipynb)
