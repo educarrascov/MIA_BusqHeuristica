@@ -6,3 +6,7 @@ Profesor: Jordi Pereira.
 **Eduardo Carrasco Vidal**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
+
+## Notebook.
+
+A. Algoritmo de Búsqueda con `Ortools`.
