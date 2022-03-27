@@ -10,5 +10,5 @@ Profesor: Jordi Pereira.
 ## Documentos.
 
 A. [Algoritmo de Búsqueda con `Ortools`.](https://github.com/educarrascov/MIA_BusqHeuristica/blob/main/1.7.%20Enunciado%20(SendMoreMoney)%20Colab.ipynb)
-B. []()
-C. []()
+B. [Resolución Tarea Nº 1 - Búsqueda](https://github.com/educarrascov/MIA_BusqHeuristica/blob/main/1.7.%20Resolucion%20Tarea%201.pdf)
+C. [Resolución Tarea Nº 2 - Algoritmos de Búsqueda A*/Greedy Search](https://github.com/educarrascov/MIA_BusqHeuristica/blob/main/2.4.%20Resolución%20Tarea%202.pdf)
