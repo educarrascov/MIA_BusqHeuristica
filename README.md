@@ -1,5 +1,5 @@
 # Busqueda_Heuristica <img src="img/logo.png" align="right" width = "95px"/>
-Repositorio creado para el Curso de Técnica de Búsqueda y Heurísticas en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
+Repositorio creado para el **Curso de Técnica de Búsqueda y Heurísticas** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
 Profesor: Jordi Pereira.
 
