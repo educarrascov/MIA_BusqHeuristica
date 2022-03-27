@@ -7,6 +7,8 @@ Profesor: Jordi Pereira.
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 
-## Notebook.
+## Documentos.
 
 A. [Algoritmo de Búsqueda con `Ortools`.](https://github.com/educarrascov/MIA_BusqHeuristica/blob/main/1.7.%20Enunciado%20(SendMoreMoney)%20Colab.ipynb)
+B. []()
+C. []()
